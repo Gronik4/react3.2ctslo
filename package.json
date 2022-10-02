@@ -20,6 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://gronik4.github.io/react3.2ctslo/",
   "eslintConfig": {
     "extends": [
       "react-app",
